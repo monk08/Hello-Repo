@@ -1,1 +1,2 @@
 This is my new file in GIT
+If something doesnot kills you make you strong
